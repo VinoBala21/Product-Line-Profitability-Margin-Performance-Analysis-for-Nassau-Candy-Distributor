@@ -11,7 +11,8 @@ The goal is to move beyond sales volume and uncover **true profit drivers**, **m
 ## Live Demo
 
 Deployed on Streamlit Cloud:
-(Add your link here after deployment)
+
+https://37fh5ryak2tbykuqf8p6sp.streamlit.app/
 
 ---
 
